@@ -32,6 +32,7 @@
 :root[data-theme='dark'] .orb-two { background:radial-gradient(circle,rgba(56,189,248,.12),transparent 68%); }
 :root[data-theme='dark'] .button.secondary,
 :root[data-theme='dark'] .stat,
+:root[data-theme='dark'] .about-facts>div,
 :root[data-theme='dark'] .skill-chip,
 :root[data-theme='dark'] .filters button,
 :root[data-theme='dark'] .project-card,
