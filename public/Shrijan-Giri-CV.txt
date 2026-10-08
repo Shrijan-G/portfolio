@@ -1,0 +1,12 @@
+SHRIJAN GIRI
+Cybersecurity Student · Ethical Hacking Enthusiast · Developer
+Kathmandu, Nepal
+
+PROFILE
+Cybersecurity student developing practical skills in network analysis, ethical hacking, Linux, and secure software development.
+
+SKILLS
+Python · Linux · Kali Linux · Networking · Nmap · Wireshark · Burp Suite · React.js · Node.js · MySQL · Git · Docker
+
+NOTE
+This is editable placeholder CV content. Replace this file with your final PDF, or update the CV link in src/components/About.jsx.
