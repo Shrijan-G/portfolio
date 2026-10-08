@@ -57,6 +57,8 @@
 :root[data-theme='dark'] .field textarea { background:#091725; border-color:#1d3b52; color:var(--ink); }
 :root[data-theme='dark'] .field input::placeholder,
 :root[data-theme='dark'] .field textarea::placeholder { color:#698299; }
+:root[data-theme='dark'] .form-status.success { background:#092c27; color:#6ee7b7; }
+:root[data-theme='dark'] .form-status.error { background:#321522; color:#fda4af; }
 :root[data-theme='dark'] footer { background:rgba(9,22,35,.72); }
 :root[data-theme='dark'] .footer-socials a,
 :root[data-theme='dark'] .footer-socials button { background:#0c1928; color:#8da4bb; }
