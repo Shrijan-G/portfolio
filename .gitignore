@@ -3,3 +3,5 @@ dist
 .sites-runtime
 *.log
 .local-runtime
+.sites-tooling
+site-bundle.tar.gz
