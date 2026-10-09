@@ -32,5 +32,5 @@ export const portfolio = {
     { type: 'code', title: 'Certified Cybersecurity Educator Professional', organization: 'CCEP', date: 'Professional certificate', description: 'Professional certification supporting cybersecurity education and communication skills.', tags: ['CCEP', 'Cybersecurity Education'] },
   ],
   contact: { email: 'gshrijan4@gmail.com', location: 'Kathmandu, Nepal', availability: 'Seeking junior penetration testing and cybersecurity opportunities' },
-  socials: { github: 'https://github.com/Shrijan-G', linkedin: 'https://www.linkedin.com/in/shrijan-giri-b8bb12350/?isSelfProfile=true', email: 'mailto:gshrijan4@gmail.com' },
+  socials: { github: 'https://github.com/Shrijan-G', linkedin: 'https://www.linkedin.com/in/shrijan-giri-b8bb12350/', email: 'mailto:gshrijan4@gmail.com' },
 }
